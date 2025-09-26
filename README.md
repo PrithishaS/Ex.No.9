@@ -1,7 +1,7 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date: 26/09/2025
+# Reg. No.: 212222210020
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -51,3 +51,5 @@ Tools/LLMs for Video Generation:
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
+
+**Result: https://docs.google.com/document/d/14lSGHZqihISkocDhbmdVrhQ6wD1_D6Ol/edit?usp=drive_link&ouid=110894608857028072055&rtpof=true&sd=true**
